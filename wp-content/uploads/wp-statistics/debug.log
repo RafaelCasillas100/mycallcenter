@@ -1,0 +1,12 @@
+
+2021-05-20 05:06:53 :: Unknown column 'user_id' in 'field list'
+2021-05-27 04:26:00 :: The address 103.149.13.124 is not in the database.
+2021-06-17 10:18:36 :: The address 103.149.13.124 is not in the database.
+2021-08-16 11:44:57 :: The address 103.149.13.124 is not in the database.
+2021-08-20 01:03:56 :: The address 103.156.92.207 is not in the database.
+2021-09-01 08:40:35 :: Duplicate entry '2021-09-02' for key 'unique_date'
+2021-09-08 08:41:28 :: Duplicate entry '2021-09-09' for key 'unique_date'
+2021-10-06 10:10:58 :: The address 103.153.79.79 is not in the database.
+2021-12-11 12:50:44 :: Duplicate entry '2021-12-11' for key 'unique_date'
+2021-12-26 08:30:54 :: Duplicate entry '2021-12-27' for key 'unique_date'
+2022-01-13 02:59:53 :: The address 186.148.193.220 is not in the database.
